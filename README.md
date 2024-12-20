@@ -1,2 +1,2 @@
 # my-first-action
-My First Action
+My First Action.
